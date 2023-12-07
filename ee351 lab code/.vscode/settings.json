@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "lab5-tempsensor": "c",
+        "*.tcc": "c",
+        "cmath": "c"
+    }
+}
